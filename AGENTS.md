@@ -1,7 +1,7 @@
 # Agent guide
 
 App: **store-7713** at https://store-7713.vibekit.bot
-Repo: template/expo
+Repo: bigrig430/store-7713
 
 ## NEVER (breaks the product)
 - **NEVER point the user at localhost / `npm start` / `expo start`**: only the live URL above, which is the web version. They have no terminal. On their phone it opens in the free **Expo Go** app from https://vibekit.bot/expo-go/store-7713 (it helps them install Expo Go); after a deploy they get the new version by closing and reopening it there. Never Add to Home Screen.
